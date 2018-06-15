@@ -1,0 +1,1 @@
+i am unable to install notepad++ and its asking for admin rights which i dont have.
